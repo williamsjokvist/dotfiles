@@ -1,0 +1,354 @@
+[
+  {
+    "identifier": {
+      "id": "arcticicestudio.nord-visual-studio-code",
+      "uuid": "6f35c257-7fd5-4bc2-9cd1-01976589c17a"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "6f35c257-7fd5-4bc2-9cd1-01976589c17a",
+      "installedTimestamp": 1683058811212,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "arcticicestudio",
+      "publisherId": "d6e09771-ef61-4944-9f28-44e338818618",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "arcticicestudio.nord-visual-studio-code-0.19.0",
+    "version": "0.19.0"
+  },
+  {
+    "identifier": {
+      "id": "syler.sass-indented",
+      "uuid": "466468c3-1861-4ad1-bf3e-f9ad46545ebb"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/syler.sass-indented-1.8.26",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "466468c3-1861-4ad1-bf3e-f9ad46545ebb",
+      "installedTimestamp": 1683235511922,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Syler",
+      "publisherId": "e88a3a32-0abb-4d89-a45b-aff60e1432f5",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "syler.sass-indented-1.8.26",
+    "version": "1.8.26"
+  },
+  {
+    "identifier": {
+      "id": "dsznajder.es7-react-js-snippets",
+      "uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "19804510-b475-4dae-b0f7-6ca08fd1af0c",
+      "installedTimestamp": 1683235531006,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "dsznajder",
+      "publisherId": "7ea644b4-2d93-4979-aac5-a12afebeb762",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "dsznajder.es7-react-js-snippets-4.4.3",
+    "version": "4.4.3"
+  },
+  {
+    "identifier": {
+      "id": "bradlc.vscode-tailwindcss",
+      "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/bradlc.vscode-tailwindcss-0.9.11",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "installedTimestamp": 1683323623200,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Tailwind Labs",
+      "publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "bradlc.vscode-tailwindcss-0.9.11",
+    "version": "0.9.11"
+  },
+  {
+    "identifier": {
+      "id": "statelyai.stately-vscode",
+      "uuid": "b34fd7d3-c0bc-493c-b90e-3246904ea27b"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/statelyai.stately-vscode-1.14.3",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "b34fd7d3-c0bc-493c-b90e-3246904ea27b",
+      "installedTimestamp": 1683415497946,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Stately",
+      "publisherId": "82371403-9ce3-4fe1-a7d0-fd4e26f5f8cf",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "statelyai.stately-vscode-1.14.3",
+    "version": "1.14.3"
+  },
+  {
+    "identifier": {
+      "id": "zxh404.vscode-proto3",
+      "uuid": "1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/zxh404.vscode-proto3-0.5.5",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "1d3d1fb2-0d8f-47ed-bfce-990b8ddfc9d8",
+      "installedTimestamp": 1683461449501,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "zxh404",
+      "publisherId": "01410813-d392-42ea-99c3-eb4475e23ac0",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "zxh404.vscode-proto3-0.5.5",
+    "version": "0.5.5"
+  },
+  {
+    "identifier": {
+      "id": "aleksandra.go-group-imports",
+      "uuid": "a34ccfaa-61bb-4697-9e55-e9b1f077cfa9"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/aleksandra.go-group-imports-1.1.4",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "a34ccfaa-61bb-4697-9e55-e9b1f077cfa9",
+      "installedTimestamp": 1683620113413,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "aleksandra",
+      "publisherId": "bd07d194-250d-44c6-9c7c-7e9a39fa03bc",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "aleksandra.go-group-imports-1.1.4",
+    "version": "1.1.4"
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker",
+      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/ms-azuretools.vscode-docker-1.25.1",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "installedTimestamp": 1684308824853,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Microsoft",
+      "publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "ms-azuretools.vscode-docker-1.25.1",
+    "version": "1.25.1"
+  },
+  {
+    "identifier": {
+      "id": "yoavbls.pretty-ts-errors",
+      "uuid": "1e149c89-8f97-447e-863d-1146f0ad1b70"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/yoavbls.pretty-ts-errors-0.4.1",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "1e149c89-8f97-447e-863d-1146f0ad1b70",
+      "installedTimestamp": 1684880192914,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "yoavbls",
+      "publisherId": "0939a3c0-6896-4249-bfa3-4ff58ebaccd0",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "yoavbls.pretty-ts-errors-0.4.1",
+    "version": "0.4.1"
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/esbenp.prettier-vscode-9.13.0",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "installedTimestamp": 1684998001814,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Prettier",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "esbenp.prettier-vscode-9.13.0",
+    "version": "9.13.0"
+  },
+  {
+    "identifier": {
+      "id": "github.vscode-github-actions",
+      "uuid": "04f49bfc-8330-4eee-8237-ea938fb755ef"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/github.vscode-github-actions-0.25.7",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "04f49bfc-8330-4eee-8237-ea938fb755ef",
+      "installedTimestamp": 1686074904920,
+      "isPreReleaseVersion": false,
+      "publisherDisplayName": "GitHub",
+      "publisherId": "7c1c19cd-78eb-4dfb-8999-99caf7679002",
+      "targetPlatform": "undefined",
+      "updated": false
+    },
+    "relativeLocation": "github.vscode-github-actions-0.25.7",
+    "version": "0.25.7"
+  },
+  {
+    "identifier": {
+      "id": "astro-build.astro-vscode",
+      "uuid": "1fbbc8b0-7432-4b7e-8774-3336151da2f3"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/astro-build.astro-vscode-2.0.18-darwin-arm64",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "1fbbc8b0-7432-4b7e-8774-3336151da2f3",
+      "installedTimestamp": 1686552864869,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Astro",
+      "publisherId": "6c30d82f-e0d4-488a-a4a3-860c0c90001f",
+      "targetPlatform": "darwin-arm64",
+      "updated": true
+    },
+    "relativeLocation": "astro-build.astro-vscode-2.0.18-darwin-arm64",
+    "version": "2.0.18"
+  },
+  {
+    "identifier": {
+      "id": "golang.go-nightly",
+      "uuid": "39890405-1721-462d-93be-1edc38378f89"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/golang.go-nightly-2023.6.820",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "39890405-1721-462d-93be-1edc38378f89",
+      "installedTimestamp": 1686648172777,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Go Team at Google",
+      "publisherId": "dbf6ae0a-da75-4167-ac8b-75b4512f2153",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "golang.go-nightly-2023.6.820",
+    "version": "2023.6.820"
+  },
+  {
+    "identifier": {
+      "id": "golang.go",
+      "uuid": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da"
+    },
+    "location": {
+      "$mid": 1,
+      "path": "/Users/william/.vscode/extensions/golang.go-0.39.0",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
+      "installedTimestamp": 1686728977813,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Go Team at Google",
+      "publisherId": "dbf6ae0a-da75-4167-ac8b-75b4512f2153",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "golang.go-0.39.0",
+    "version": "0.39.0"
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.vscode-typescript-next",
+      "uuid": "15305aca-2588-4ca0-8147-ab2c64730b82"
+    },
+    "location": {
+      "$mid": 1,
+      "fsPath": "/Users/william/.vscode/extensions/ms-vscode.vscode-typescript-next-5.2.20230613",
+      "path": "/Users/william/.vscode/extensions/ms-vscode.vscode-typescript-next-5.2.20230613",
+      "scheme": "file"
+    },
+    "metadata": {
+      "id": "15305aca-2588-4ca0-8147-ab2c64730b82",
+      "installedTimestamp": 1686728977824,
+      "isApplicationScoped": false,
+      "isPreReleaseVersion": false,
+      "preRelease": false,
+      "publisherDisplayName": "Microsoft",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "targetPlatform": "undefined",
+      "updated": true
+    },
+    "relativeLocation": "ms-vscode.vscode-typescript-next-5.2.20230613",
+    "version": "5.2.20230613"
+  }
+]
